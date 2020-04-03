@@ -1,0 +1,16 @@
+Introduction to Data Engineering
+Streamlined Data Ingestion with pandas
+Software Engineering for Data Scientists in Python
+Writing Efficient Python Code
+Introduction to Bash Scripting
+Data Processing in Shell
+Command Line Automation in Python
+Introduction to AWS Boto in Python
+Database Design
+Introduction to Scala
+Big Data Fundamentals with PySpark
+Introduction to Spark SQL in Python
+Transactions and Error Handling in SQL Server
+Improving Query Performance in SQL Server
+Building and Optimizing Triggers in SQL Server
+Introduction to MongoDB in Python

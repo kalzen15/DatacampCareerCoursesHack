@@ -1,0 +1,16 @@
+Introduction to Data Science in Python
+Intermediate Python
+Python Data Science Toolbox (Part 1)
+Introduction to SQL
+Joining Data in SQL
+Introduction to Relational Databases in SQL
+Introduction to Importing Data in Python
+Intermediate Importing Data in Python
+Cleaning Data in Python
+pandas Foundations
+Manipulating DataFrames with pandas
+Merging DataFrames with pandas
+Analyzing Police Activity with pandas
+Introduction to Data Visualization in Python
+Statistical Thinking in Python (Part 1)
+Statistical Thinking in Python (Part 2)

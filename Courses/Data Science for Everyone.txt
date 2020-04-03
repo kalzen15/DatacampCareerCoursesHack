@@ -1,0 +1,27 @@
+Data Science for Everyone
+Introduction to Python
+Intermediate Python
+Python Data Science Toolbox (Part 1)
+Python Data Science Toolbox (Part 2)
+Introduction to Importing Data in Python
+Intermediate Importing Data in Python
+Cleaning Data in Python
+pandas Foundations
+Manipulating DataFrames with pandas
+Merging DataFrames with pandas
+Analyzing Police Activity with pandas
+Introduction to SQL
+Introduction to Relational Databases in SQL
+Introduction to Data Visualization in Python
+Interactive Data Visualization with Bokeh
+Statistical Thinking in Python (Part 1)
+Statistical Thinking in Python (Part 2)
+Joining Data in SQL
+Introduction to Shell
+Conda Essentials
+Supervised Learning with scikit-learn
+Case Study: School Budgeting with Machine Learning in Python
+Unsupervised Learning in Python
+Machine Learning with Tree-Based Models in Python
+Introduction to Deep Learning in Python
+Introduction to Network Analysis in Python

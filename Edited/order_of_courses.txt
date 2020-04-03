@@ -1,0 +1,7 @@
+Machine Learning for Everyone.txt
+Data Scientist with Python.txt
+Data Engineer with Python.txt
+Data Science for Everyone.txt
+Data Analyst with Python.txt
+Machine Learning Scientist with Python.txt
+Python Programmer.txt

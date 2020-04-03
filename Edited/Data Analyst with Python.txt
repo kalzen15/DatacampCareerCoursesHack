@@ -1,0 +1,2 @@
+Introduction to Data Science in Python
+Statistical Thinking in Python (Part 2)

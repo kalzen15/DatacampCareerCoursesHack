@@ -1,0 +1,11 @@
+Data Science for Everyone
+pandas Foundations
+Manipulating DataFrames with pandas
+Introduction to SQL
+Introduction to Relational Databases in SQL
+Introduction to Data Visualization in Python
+Interactive Data Visualization with Bokeh
+Joining Data in SQL
+Introduction to Shell
+Conda Essentials
+Introduction to Network Analysis in Python

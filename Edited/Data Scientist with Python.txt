@@ -1,0 +1,20 @@
+PROJECT - TV, Halftime Shows, and the Big Game
+Data Manipulation with pandas
+PROJECT - The Android App Market on Google Play
+Merging DataFrames with pandas
+PROJECT - The GitHub History of the Scala Language
+Introduction to Data Visualization with Matplotlib
+Introduction to Data Visualization with Seaborn
+Intermediate Data Visualization with Seaborn
+PROJECT - A Visual History of Nobel Prize Winners
+Introduction to Importing Data in Python
+Intermediate Importing Data in Python
+Cleaning Data in Python
+Working with Dates and Times in Python
+Exploratory Data Analysis in Python
+Analyzing Police Activity with pandas
+Statistical Thinking in Python (Part 2)
+PROJECT - Dr. Semmelweis and the Discovery of Handwashing
+PROJECT - Predicting Credit Card Approvals
+Case Study: School Budgeting with Machine Learning in Python
+Cluster Analysis in Python

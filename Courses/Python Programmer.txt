@@ -1,0 +1,13 @@
+Introduction to Python
+Intermediate Python
+Python Data Science Toolbox (Part 1)
+Python Data Science Toolbox (Part 2)
+Introduction to Importing Data in Python
+Intermediate Importing Data in Python
+Cleaning Data in Python
+pandas Foundations
+Manipulating DataFrames with pandas
+Merging DataFrames with pandas
+Introduction to Relational Databases in SQL
+Introduction to Shell
+Conda Essentials
